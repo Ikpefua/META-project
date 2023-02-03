@@ -1,0 +1,164 @@
+ body {
+    background-image: url(bg.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+   
+    
+
+ }
+ form{
+    height: 530px;
+    width: 360px;
+    /* width: 380px; */
+    background-color: white;
+    margin: 100px 320px 200px auto; 
+    border-radius: 20px;
+    border: 1px solid white;
+    
+ }
+ h3{ 
+    text-align: center;
+    margin-top: 40px;
+    color: rgba(132, 66, 194, 0.87);
+ }
+ img {
+    margin: 0px 130px;
+    height: 90px;
+ }
+ .text {
+    background-image: url(email.svg);
+    background-size: 10%;
+    background-position: 8%;
+    background-repeat: no-repeat;
+    height: 39px;
+    width: 270px;
+    border-radius: 20px;
+    /* border-color:dodgerblue ; */
+    border: 2px solid dodgerblue;
+    text-align: center;
+    color: dodgerblue;
+    margin: 20px 40px ;
+
+ }
+ .text2 {
+    background-image: url(/password\ lock.svg);
+    background-size: 10%;
+    background-position: 8%;
+    background-repeat: no-repeat;
+    height: 39px;
+    width: 270px;
+    border-radius: 20px;
+    /* border-color:dodgerblue ; */
+    border: 2px solid dodgerblue;
+    margin: 4px 40px ;
+    text-align: center;
+ }
+ 
+ 
+ div input {
+    margin: 35px 0px;
+    color:  dodgerblue;
+    
+    
+    /* text-align: center; */
+ }
+ label {
+    color: rgb(55, 134, 134);
+    font-size: 13.5px;
+    font-family: 'Times New Roman', Times, serif;
+    
+ }
+ button {
+    width: 230px; 
+    height: 39px;
+    border-radius: 20px;
+    background-color: rgba(132, 66, 194, 0.87);
+    border: none;
+    margin: 0px 65px 9px;
+    color: white;
+ }
+    a {
+        color: rgb(55, 134, 134);
+        text-decoration: none;
+        font-size: small;      
+    }
+   
+ /* body { 
+    background-image: url(bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center; */
+
+
+
+/* h2 {
+    margin-top: 10px;
+}
+.title {
+    text-align: center;
+    color: rgba(132, 66, 194, 0.87);
+   
+   
+}
+img {
+    margin: 0px 100px;
+    height: 90px;
+    justify-content: center; 
+    
+}
+.text {
+    background-image: url(email.svg);
+    background-size: 10%;
+    background-position: 8%;
+    background-repeat: no-repeat;
+    height: 39px;
+    width: 270px;
+    border-radius: 20px;
+    border-color:dodgerblue ;
+    text-align: center;
+    color: dodgerblue;
+    margin: 25px 20px ;
+
+}
+.text-pas {
+    background-image: url(/password\ lock.svg);
+    background-size: 10%;
+    background-position: 8%;
+    background-repeat: no-repeat;
+    height: 39px;
+    width: 270px;
+    border-radius: 20px;
+    border-color:dodgerblue ;
+    margin:0px 20px ;
+    text-align: center;
+    
+
+}
+ 
+form {
+    background-color: white;
+    width: 322px;
+    height: 500px;
+    border-radius: 19px;
+    margin: 100px 320px 200px auto; 
+}
+button {
+    width: 220px; 
+    height: 39px;
+    border-radius: 20px;
+    background-color: rgba(132, 66, 194, 0.87);
+    border: none;
+}
+#section {
+    margin-top: 20px;
+}
+a {
+    color: darkcyan;
+    text-decoration: none;
+      
+} */
